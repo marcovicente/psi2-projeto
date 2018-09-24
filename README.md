@@ -1,2 +1,1 @@
-# psi2-projeto
-Projeto em Sistemas de Informação
+# Projeto em Sistemas de Informação (PSI 2018)
