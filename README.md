@@ -2,6 +2,11 @@
 
 ## Getting Started ##
 
+Chrome Extensions
+=================
+- [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
+- [What Runs](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip)
+
 Useful Information
 =================
 - [Free eBooks](https://www.packtpub.com//packt/offers/free-learning/)
