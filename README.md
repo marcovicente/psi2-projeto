@@ -8,7 +8,7 @@
 
 Useful Information
 =================
-- [Free Cloud Environment] (https://wedeploy.com)
+- [Free Cloud Environment](https://wedeploy.com)
 - [Free eBooks](https://www.packtpub.com//packt/offers/free-learning/)
 
 ## Authors 
