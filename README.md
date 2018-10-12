@@ -11,6 +11,10 @@
 * Which product attributes are critical to satisfy the needs selected, and therefore for the success of the product?  
 * What are the benefits and key features
 
+### Business Model Canvas
+![picture alt](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Business_Model_Canvas.png/1200px-Business_Model_Canvas.png)
+` Osterwalder, Pigneur & al. 2010`
+
 #### Additional readings
 * [Product Vision](https://www.scrumalliance.org/community/articles/2009/january/the-product-vision)
 * [Product Vision Statement](https://platinumedge.com/blog/agile-artifacts-product-vision-statement)
@@ -20,8 +24,9 @@
 ### Product Backlog
 * [What is a Product Backlog](https://www.scrum.org/resources/what-is-a-product-backlog)
 
-Useful Information
-=================
+## Useful Information ##
+
+<kbd>I</kbd><kbd>N</kbd><kbd>F</kbd><kbd>O</kbd>
 - [Free Cloud Environment](https://wedeploy.com)
 - [Free eBooks](https://www.packtpub.com//packt/offers/free-learning/)
 
