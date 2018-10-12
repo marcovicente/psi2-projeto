@@ -1,6 +1,7 @@
 # Projeto em Sistemas de Informação (PSI 2018)
 
 ## Getting Started ##
+### Product Vision
 
 ## Chrome Extensions ##
 - [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
