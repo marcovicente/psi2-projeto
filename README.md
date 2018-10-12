@@ -11,6 +11,16 @@
 * Which product attributes are critical to satisfy the needs selected, and therefore for the success of the product?  
 * What are the benefits and key features
 
+#### Product Vision Elevator Statement*
+* FOR (target customer)
+* WHO (statement of the need)
+* THE ((product name) is a (product category))
+* THAT (key product benefit, reason to buy/use)
+* UNLIKE (competitive alternatives)
+* OUR PRODUCT (final statement of differentiation)
+ 
+` * *Geoffrey Moore: Crossing the Chasm`
+
 ### Business Model Canvas
 ![picture alt](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Business_Model_Canvas.png/1200px-Business_Model_Canvas.png)
 ` Osterwalder, Pigneur & al. 2010`
