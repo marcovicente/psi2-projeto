@@ -16,7 +16,7 @@
 * https://platinumedge.com/blog/agile-artifacts-product-vision-statement
 * http://www.dummies.com/careers/project-management/four-steps-to-defining-your-product-vision-with-agile-management/
 
-### Initial Product Backlog
+### Product Backlog
 
 
 Useful Information
