@@ -12,9 +12,9 @@
 * What are the benefits and key features
 
 #### Additional readings
-* https://www.scrumalliance.org/community/articles/2009/january/the-product-vision
-* https://platinumedge.com/blog/agile-artifacts-product-vision-statement
-* http://www.dummies.com/careers/project-management/four-steps-to-defining-your-product-vision-with-agile-management/
+* [Product Vision](https://www.scrumalliance.org/community/articles/2009/january/the-product-vision)
+* [Product Vision Statement](https://platinumedge.com/blog/agile-artifacts-product-vision-statement)
+* [Defining your Product Vision](http://www.dummies.com/careers/project-management/four-steps-to-defining-your-product-vision-with-agile-management/)
 * [Business Model Canvas](https://strategyzer.com/canvas/business-model-canvas)
 
 ### Product Backlog
