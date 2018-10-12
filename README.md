@@ -1,6 +1,7 @@
 # Projeto em Sistemas de Informação (PSI 2018)
 
 ## Getting Started ##
+
 ### Product Vision
 * What is the product
  “The minimum plan necessary to start a Scrum project consists of a vision and a Product Backlog. The vision describes why the project is being undertaken and what the desired end state is.” (Schwaber 2004, p. 68)
@@ -14,6 +15,9 @@
 * https://www.scrumalliance.org/community/articles/2009/january/the-product-vision
 * https://platinumedge.com/blog/agile-artifacts-product-vision-statement
 * http://www.dummies.com/careers/project-management/four-steps-to-defining-your-product-vision-with-agile-management/
+
+### Initial Product Backlog
+
 
 Useful Information
 =================
