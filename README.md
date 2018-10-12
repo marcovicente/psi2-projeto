@@ -15,9 +15,10 @@
 * https://www.scrumalliance.org/community/articles/2009/january/the-product-vision
 * https://platinumedge.com/blog/agile-artifacts-product-vision-statement
 * http://www.dummies.com/careers/project-management/four-steps-to-defining-your-product-vision-with-agile-management/
+* [Business Model Canvas](https://strategyzer.com/canvas/business-model-canvas)
 
 ### Product Backlog
-
+* [What is a Product Backlog](https://www.scrum.org/resources/what-is-a-product-backlog)
 
 Useful Information
 =================
