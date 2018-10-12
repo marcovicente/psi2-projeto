@@ -21,6 +21,11 @@
  
 `* Geoffrey Moore: Crossing the Chasm`
 
+##### A sample product vision statement:
+
+“For a mid-sized company’s marketing and sales departments who need basic CRM functionality, the CRM-Innovator is a Web-based service that provides sales tracking, lead generation, and sales representative support features that improve customer relationships at critical touch points. Unlike other services or package software products, our product provides very capable services at a moderate cost.”
+* Source: https://www.joelonsoftware.com/2002/05/09/product-vision/
+
 ### Business Model Canvas *
 ![picture alt](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Business_Model_Canvas.png/1200px-Business_Model_Canvas.png)
 ` * Osterwalder, Pigneur & al. 2010`
