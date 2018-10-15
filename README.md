@@ -6,7 +6,7 @@
 * [Product Backlog](#product_backlog)
 * [User Stories](#user_stories)
 * [Useful Information](#useful_information)
-* [Leaderboard](#leaderboard)
+* [Leaderboard (Kahoots)](#leaderboard)
 
 
 <a name="product_vision"></a>
