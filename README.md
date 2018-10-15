@@ -51,12 +51,12 @@
 As a `<user>` I can `<action>` so that `<result>`
 
 ### Levels of User Stories
-* Epic
- * Epics are very large stories
-* Theme
- * Themes are small level epics that contain multiple user stories
-* User Story
- * A short description told from the perspective of the person who desires the new capability
+* **Epic**
+  * Epics are very large stories
+* **Theme**
+  * Themes are small level epics that contain multiple user stories
+* **User Story**
+  * A short description told from the perspective of the person who desires the new capability
 
 <a name="useful_information"></a>
 ## Useful Information ##
