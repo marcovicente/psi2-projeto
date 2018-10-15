@@ -4,6 +4,7 @@
 ## Getting Started ##
 * [Product Vision](#product_vision)
 * [Product Backlog](#product_backlog)
+* [User Stories](#user_stories)
 * [Useful Information](#useful_information)
 
 
