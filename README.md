@@ -6,6 +6,7 @@
 * [Product Backlog](#product_backlog)
 * [User Stories](#user_stories)
 * [Useful Information](#useful_information)
+* [Leaderboard](#leaderboard)
 
 
 <a name="product_vision"></a>
@@ -70,6 +71,26 @@ As a `<user>` I can `<action>` so that `<result>`
 ## Chrome Extensions ##
 - [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
 - [What Runs](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip)
+
+<a name="leaderboard"></a>
+## Leaderboard
+
+| ﻿Rank | Players         | Session #1 | Session #2 | Session #3 | Total |
+|------|-----------------|------------|------------|------------|-------|
+| 1    | jnkpf           | 5433       | 6856       | 4094       | 16383 |
+| 2    | Maximino        | 3795       | 6810       | 2704       | 13309 |
+| 3    | Melicias        | 5331       | 3687       | 4065       | 13083 |
+| 4    | TCrispim        | 5130       | 3546       | 3975       | 12651 |
+| 5    | Sr.Dr.Prof.Dini | 3972       | 6758       | 1905       | 12635 |
+| 6    | Rui             | 5049       | 4835       | 2711       | 12595 |
+| 7    | Nunes           | 4830       | 4620       | 2607       | 12057 |
+| 8    | Amaro           | 3759       | 3578       | 2941       | 10278 |
+| 9    | Bértolo         | 1721       | 6561       | 1506       | 9788  |
+| 10   | Carlos Franco   | 5044       | 2518       | 1642       | 9204  |
+| 11   | Rodrigo Gameiro | 3485       | 5304       |            | 8789  |
+| 12   | DaniSarreira    | 3139       | 4873       |            | 8012  |
+| 13   | Lexandru        |            | 4527       | 1817       | 6344  |
+| 14   | O afonso        |            | 1585       | 2966       | 4551  |
 
 
 ## Authors 
