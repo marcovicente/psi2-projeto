@@ -64,6 +64,7 @@ As a `<user>` I can `<action>` so that `<result>`
 ## Useful Information ##
 
 <kbd>I</kbd><kbd>N</kbd><kbd>F</kbd><kbd>O</kbd>
+- [PHP Storm](https://www.jetbrains.com/phpstorm/)
 - [Agile Manifesto](http://agilemanifesto.org/)
 - [Free Cloud Environment](https://wedeploy.com)
 - [Free eBooks](https://www.packtpub.com//packt/offers/free-learning/)
