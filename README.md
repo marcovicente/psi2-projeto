@@ -78,6 +78,7 @@ As a `<user>` I can `<action>` so that `<result>`
 - [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
 - [What Runs](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip)
 - [Excel Table to Markdown](https://www.tablesgenerator.com/markdown_tables)
+- [Datagrip - Database IDE](https://www.jetbrains.com/datagrip/)
 
 <a name="leaderboard"></a>
 ## Leaderboard
