@@ -72,9 +72,10 @@ As a `<user>` I can `<action>` so that `<result>`
 - [Free Cloud Environment](https://wedeploy.com)
 - [Free eBooks](https://www.packtpub.com//packt/offers/free-learning/)
 
-## Chrome Extensions ##
+## Utils ##
 - [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
 - [What Runs](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip)
+- [Excel Table to Markdown](https://www.tablesgenerator.com/markdown_tables)
 
 <a name="leaderboard"></a>
 ## Leaderboard
