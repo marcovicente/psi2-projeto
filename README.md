@@ -66,6 +66,8 @@ As a `<user>` I can `<action>` so that `<result>`
 <kbd>S</kbd><kbd>O</kbd><kbd>F</kbd><kbd>T</kbd><kbd>W</kbd><kbd>A</kbd><kbd>R</kbd><kbd>E</kbd>
 - [PHP Storm](https://www.jetbrains.com/phpstorm/)
 - [Pencil](https://pencil.evolus.vn/)
+- [Datagrip - Database IDE](https://www.jetbrains.com/datagrip/)
+
 
 <kbd>I</kbd><kbd>N</kbd><kbd>F</kbd><kbd>O</kbd>
 - [Agile Manifesto](http://agilemanifesto.org/)
@@ -78,7 +80,6 @@ As a `<user>` I can `<action>` so that `<result>`
 - [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
 - [What Runs](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip)
 - [Excel Table to Markdown](https://www.tablesgenerator.com/markdown_tables)
-- [Datagrip - Database IDE](https://www.jetbrains.com/datagrip/)
 
 <a name="leaderboard"></a>
 ## Leaderboard
