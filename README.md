@@ -73,6 +73,8 @@ As a `<user>` I can `<action>` so that `<result>`
 - [Free eBooks](https://www.packtpub.com//packt/offers/free-learning/)
 
 ## Utils ##
+- [Hook.io - Open-source Hosting for Webhooks and Microservices](https://hook.io)
+- [WeDeploy - Apps hosting](https://wedeploy.com/)
 - [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
 - [What Runs](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip)
 - [Excel Table to Markdown](https://www.tablesgenerator.com/markdown_tables)
