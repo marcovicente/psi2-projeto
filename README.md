@@ -73,6 +73,7 @@ As a `<user>` I can `<action>` so that `<result>`
 - [Agile Manifesto](http://agilemanifesto.org/)
 - [Free Cloud Environment](https://wedeploy.com)
 - [Free eBooks](https://www.packtpub.com//packt/offers/free-learning/)
+- [Google Cloud Reference Architectures](http://gcp.solutions/)
 
 ## Utils ##
 - [Hook.io - Open-source Hosting for Webhooks and Microservices](https://hook.io)
