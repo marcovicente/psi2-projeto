@@ -81,6 +81,7 @@ As a `<user>` I can `<action>` so that `<result>`
 - [What Runs](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip)
 - [Excel Table to Markdown](https://www.tablesgenerator.com/markdown_tables)
 - [Zeplin](https://app.zeplin.io)
+- [Github Education Pack](https://education.github.com/pack)
 
 <a name="leaderboard"></a>
 ## Leaderboard
