@@ -17,9 +17,8 @@
 
 ## Group 2 - Gym Plan
 ### Participants
-* Carlos Franco
-* Nuno Nunes
-* Rui Silva
+* Gonçalo Amaro
+* Francisco Melícias
 ### Status
 - [x] Product Vision
 - [X] [Product Backlog](https://trello.com/b/pXZMh08y/projeto)
@@ -31,6 +30,26 @@
 - [ ] UI Style Guide
 - [X] Database
 - [X] UI Mockups
+
+### Next Steps
+- [ ] Arquitecture
+
+## Group 3 - UPick
+### Participants
+* João Fernandes
+* Afonso Pinheiro
+* Alexandre Rodrigues
+### Status
+- [x] Product Vision
+- [x] [Product Backlog](https://trello.com/b/ltmweaLJ/projeto-final)
+- [ ] Architecture
+- [x] Source Control
+- [ ] Unit Tests
+- [ ] Mobile Development
+- [ ] Documentation
+- [ ] UI Style Guide
+- [ ] Database
+- [ ] UI Mockups
 
 ### Next Steps
 - [ ] Arquitecture
