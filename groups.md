@@ -53,3 +53,49 @@
 
 ### Next Steps
 - [ ] Arquitecture
+
+## Group 4 - MyScores
+### Participants
+* Daniel Sarreira
+* Rodrigo Gameiro
+* Tiago Crispim
+### Status
+- [x] Product Vision
+- [x] [Product Backlog](https://trello.com/b/IM9GR19L/projeto)
+- [ ] Architecture
+- [x] Source Control
+- [ ] Unit Tests
+- [ ] Mobile Development
+- [ ] Documentation
+- [ ] UI Style Guide
+- [X] Database
+- [ ] UI Mockups
+
+### Next Steps
+- [ ] Arquitecture
+
+
+## Group 5 - Montaki
+### Participants
+* João Bértolo
+* Afonso Maximino
+* Dinis Santos
+### Status
+- [x] Product Vision
+- [x] [Product Backlog](https://trello.com/b/5jhsQWo9/projeto)
+- [ ] Architecture
+- [x] Source Control
+- [ ] Unit Tests
+- [ ] Mobile Development
+- [ ] Documentation
+- [ ] UI Style Guide
+- [ ] Database
+- [ ] UI Mockups
+
+### Next Steps
+- [ ] Arquitecture
+
+
+
+
+
