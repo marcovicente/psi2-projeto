@@ -29,5 +29,8 @@
 - [ ] Mobile Development
 - [ ] Documentation
 - [ ] UI Style Guide
+- [X] Database
+- [X] UI Mockups
+
 ### Next Steps
 - [ ] Arquitecture
