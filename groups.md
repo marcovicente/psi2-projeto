@@ -42,7 +42,7 @@
 ### Status
 - [x] Product Vision
 - [x] [Product Backlog](https://trello.com/b/ltmweaLJ/projeto-final)
-- [ ] Architecture
+- [X] Architecture
 - [x] Source Control
 - [ ] Unit Tests
 - [ ] Mobile Development
