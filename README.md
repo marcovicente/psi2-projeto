@@ -89,6 +89,23 @@ As a `<user>` I can `<action>` so that `<result>`
 <a name="leaderboard"></a>
 ## Leaderboard
 ### December
+
+| Rank | Players         | Session #1 |
+|------|-----------------|----------------------|
+| 1    | 🥇jnkpf           | 3999                 |
+| 2    | 🥈Amarovski       | 3976                 |
+| 3    | 🥉Upick é o maior | 3019                 |
+| 4    | Melicias        | 2772                 |
+| 5    | D1n15           | 2761                 |
+| 6    | Rui             | 2203                 |
+| 7    | Maximino        | 1828                 |
+| 8    | TCrispim        | 1825                 |
+| 9    | Carlos          | 1724                 |
+| 10   | Dani            | 1708                 |
+| 11   | Bertolo         | 911                  |
+| 12   | ThrashAki       | 844                  |
+| 13   | Nunes           | 657                  |
+
 - [ ] Architecture Diagram - 1000 points (-100 for each day after 5 December)
 - [ ] Code Repository - 1000 points (-100 for each day after 10 December)
 - [ ] Kahoots - 3 Sessions
