@@ -88,6 +88,11 @@ As a `<user>` I can `<action>` so that `<result>`
 
 <a name="leaderboard"></a>
 ## Leaderboard
+### December
+- [ ] Architecture Diagram - 1000 points (-100 for each day after 5 December)
+- [ ] Code Repository - 1000 points (-100 for each day after 10 December)
+- [ ] Kahoots - 3 Sessions
+
 ### October
 
 | Rank | Players         | Session #1 | Session #2 | Session #3 | Session #4 | Total |
