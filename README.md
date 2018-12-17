@@ -90,25 +90,22 @@ As a `<user>` I can `<action>` so that `<result>`
 ## Leaderboard
 ### December
 
-| Rank | Players         | Session #1 |
-|------|-----------------|----------------------|
-| 1    | 🥇jnkpf           | 3999                 |
-| 2    | 🥈Amarovski       | 3976                 |
-| 3    | 🥉Upick é o maior | 3019                 |
-| 4    | Melicias        | 2772                 |
-| 5    | D1n15           | 2761                 |
-| 6    | Rui             | 2203                 |
-| 7    | Maximino        | 1828                 |
-| 8    | TCrispim        | 1825                 |
-| 9    | Carlos          | 1724                 |
-| 10   | Dani            | 1708                 |
-| 11   | Bertolo         | 911                  |
-| 12   | ThrashAki       | 844                  |
-| 13   | Nunes           | 657                  |
-
-- [ ] Architecture Diagram - 1000 points (-100 for each day after 5 December)
-- [ ] Code Repository - 1000 points (-100 for each day after 10 December)
-- [ ] Kahoots - 3 Sessions
+| Rank | Player          | Session 22 | Session 26 | Total |
+|------|-----------------|------------|------------|-------|
+| 1  🍫 | 🥇jnkpf           | 3999       | 🥈5599       | 9598  |
+| 2  🍫 | Rui               | 2203       | 🥉5537       | 7740  |
+| 3  🍫 | Carlos            | 1724       | 5401         | 7125  |
+| 4  🍫 | 🥉 Upick é o maior| 3019       | 4038         | 7057  |
+| 5  🍫 | Melicias          | 2772       | 3908         | 6680  |
+| 6  🍫 | ThrashAki         | 844        | 🥇5600       | 6444  |
+| 7     | Bertolo           | 911        | 5432         | 6343  |
+| 8     | Nunes             | 657        | 5396         | 6053  |
+| 9     | Maximino          | 1828       | 4013         | 5841  |
+| 10    | D1n15             | 2761       | 3049         | 5810  |
+| 11    | TCrispim          | 1825       | 2929         | 4754  |
+| 12    | Dani              | 1708       | 3023         | 4731  |
+| 13    | 🥈Amarovski       | 3976       | 0            | 3976  |
+| 14    | Winner            | 0          | 3935         | 3935  |
 
 ### October
 
