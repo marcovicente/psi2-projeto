@@ -20,8 +20,8 @@
 ### Status
 - [x] Product Vision
 - [X] [Product Backlog](https://trello.com/b/pXZMh08y/projeto)
-- [ ] Architecture
-- [ ] Source Control
+- [X] Architecture
+- [X] Source Control
 - [ ] Unit Tests
 - [ ] Mobile Development
 - [ ] Documentation
@@ -29,8 +29,6 @@
 - [X] Database
 - [X] UI Mockups
 
-### Next Steps
-- [ ] Arquitecture
 
 ## Group 3 - UPick
 ### Participants
