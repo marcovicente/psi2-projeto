@@ -47,9 +47,6 @@
 - [ ] Database
 - [ ] UI Mockups
 
-### Next Steps
-- [ ] Arquitecture
-
 ## Group 4 - MyScores
 ### Participants
 * Daniel Sarreira
@@ -67,10 +64,6 @@
 - [X] Database
 - [ ] UI Mockups
 
-### Next Steps
-- [ ] Arquitecture
-
-
 ## Group 5 - Montaki
 ### Participants
 * João Bértolo
@@ -87,11 +80,3 @@
 - [ ] UI Style Guide
 - [x] Database
 - [ ] UI Mobile Mockups
-
-### Next Steps
-- [ ] Arquitecture
-
-
-
-
-
