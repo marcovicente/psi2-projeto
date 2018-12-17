@@ -71,12 +71,12 @@
 * Dinis Santos
 ### Status
 - [x] Product Vision
-- [x] [Product Backlog](https://trello.com/b/5jhsQWo9/projeto)
-- [ ] Architecture
-- [x] Source Control
+- [X] [Product Backlog](https://trello.com/b/5jhsQWo9/projeto)
+- [X] Architecture
+- [X] Source Control
 - [ ] Unit Tests
 - [ ] Mobile Development
 - [ ] Documentation
 - [ ] UI Style Guide
-- [x] Database
-- [ ] UI Mobile Mockups
+- [X] Database
+- [X] UI Mobile Mockups
