@@ -85,6 +85,7 @@ As a `<user>` I can `<action>` so that `<result>`
 - [Excel Table to Markdown](https://www.tablesgenerator.com/markdown_tables)
 - [Zeplin](https://app.zeplin.io)
 - [Github Education Pack](https://education.github.com/pack)
+- [Startup Checklist](https://www.defmacro.org/2019/03/26/startup-checklist.html)
 
 <a name="leaderboard"></a>
 ## Leaderboard
