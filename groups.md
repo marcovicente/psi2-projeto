@@ -8,10 +8,23 @@
 * [NAME]
 ### Status
 - [ ] Product Vision
-- [ ] [Product Backlog](https://trello.com/b/b4ibEXfr/agile-project#)
+- [ ] Product Backlog
+- [ ] [Sources Web](https://github.com/Tjay98/projetoburguer)
+- [ ] Sources Android
+- [ ] Planning
+- [ ] Sprint Planning 
 - [ ] Architecture
+- [ ] Database (Diagram, Structure)
+- [ ] Documentation
 - [ ] Source Control
+  - [ ] Git Mobile
+  - [ ] Git APIs
+  - [ ] App Web
+  - [ ] BD
 - [ ] Unit Tests
 - [ ] Mobile Development
-- [ ] Documentation
 - [ ] UI Style Guide
+### I Wish
+* Stuff that could be improved
+### I Like
+* Stuff going very well
