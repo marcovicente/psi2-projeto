@@ -1,3 +1,7 @@
+## Groups ##
+* [XXX](#group_xxx)
+
+<a name="group_XXX"></a>
 ## Group [NAME]
 ### Participants
 * [NAME]
